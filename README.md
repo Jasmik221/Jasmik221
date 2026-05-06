@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Jakub 👋
+Computer Science student interested in Software Engineering, Data Science, AI and Embedded Systems.
+## Technologies
+- C#
+- C++
+- Python
+- SQL
+- NoSQL
+- Linux / Bash
+- Docker
+- Neo4j
+- MySQL / PostgreSQL
+- Arduino
+- ESP32
+- STM32
+- Arduino 
+- Raspberry Pi
+- AWS
+- ## Featured Projects
 
-<!--
-**Jasmik221/Jasmik221** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### ♟️ Chess Game
+Desktop chess application built with C# and WPF featuring full chess logic and unit testing.
 
-Here are some ideas to get you started:
+### 🔌 Embedded Tic Tac Toe
+Arduino Nano embedded project with custom PCB and WS2812B LED control.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📊 ETL Graph Infrastructure
+Python ETL pipeline with Neo4j graph database integration and graph analytics.
