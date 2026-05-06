@@ -10,6 +10,7 @@ Computer Science student interested in Software Engineering, Data Science, AI an
 - Docker
 - Neo4j
 - MySQL / PostgreSQL
+- RestAPI
 - Arduino
 - ESP32
 - STM32
